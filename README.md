@@ -19,7 +19,7 @@ Ich liebe Projekte, die **professionell wirken**, aber trotzdem **Charakter** ha
 Software darf funktional sein – aber auch warm, verspielt und einladend.
 
 ## 🌐 Links
-- 🔗 [Meine Repositories](https://github.com/DEINUSERNAME)
+- 🔗 [Meine Repositories](https://github.com/tajbender)
 
 <!--
 **tajbender/tajbender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
