@@ -1,3 +1,28 @@
+# 🥼 Willkommen in meinem Labor!
+
+Großartig! Du hast meinen GitHub‑Fluxkompensator gefunden!  
+Ich bin Thorsten – Entwickler, Designer und Hardware‑Tüftler mit einer Vorliebe für **Retro‑Ästhetik** und **C#‑Magie**.  
+Manchmal wirke ich wie ein seriöser Architekt sauberer Codebasen… und manchmal wie ein Professor, der gerade versucht, einen PC mit Nanoxia‑Fans in die Vergangenheit zu schicken.
+
+## ⚡ Aktuelle Experimente
+- **Ahnenforscherin** – eine Genealogie‑App, die so verspielt ist, dass selbst deine Ur‑Ur‑Ur‑Großeltern schmunzeln würden  
+- **Silence of Thoughts** – Band‑Branding mit Retro‑Atmosphäre, irgendwo zwischen VHS‑Kassetten und Neonröhren  
+- **Silent PC Builds** – Airflow‑Optimierung, Undervolting und die Suche nach der *Königsklasse* der Lautlosigkeit
+
+## 🛠️ Meine Werkzeuge
+- C#, .NET, WinUI‑3 – meine Fluxkompensator‑Bauteile  
+- PowerShell – für Automationen, die fast wie Zeitreisen wirken  
+- Retro‑Design & Comic‑Stil – weil Software nicht nur funktionieren, sondern auch Spaß machen soll  
+- Hardware‑Optimierung – ich baue PCs, die so leise sind, dass du die Zukunft hören kannst
+
+## 🎩 Meine Philosophie
+„Wenn du sauberen Code mit einem Hauch Verrücktheit kombinierst… kannst du alles erreichen!“  
+Software darf professionell sein – aber auch bunt, verspielt und ein bisschen verrückt.
+
+## 🌐 Links
+- 🚀 [Meine Repositories](https://github.com/tajbender)
+- :electron: [electfifier](https://github.com/electrifier)
+<!--
 # 👋 Hi, ich bin Thorsten
 
 Ich bin ein kreativer Technologe, der gerne **sauberen Code**, **spielersches Design** und **Retro‑Ästhetik** miteinander verbindet.  
@@ -20,7 +45,7 @@ Software darf funktional sein – aber auch warm, verspielt und einladend.
 
 ## 🌐 Links
 - 🔗 [Meine Repositories](https://github.com/tajbender)
-
+-->
 <!--
 **tajbender/tajbender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
