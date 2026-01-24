@@ -19,9 +19,10 @@ Manchmal wirke ich wie ein seriöser Architekt sauberer Codebasen… und manchma
 „Wenn du sauberen Code mit einem Hauch Verrücktheit kombinierst… kannst du alles erreichen!“  
 Software darf professionell sein – aber auch bunt, verspielt und ein bisschen verrückt.
 
-## 🌐 Links
-- 🚀 [Meine Repositories](https://github.com/tajbender)
-- :electron: [electfifier](https://github.com/electrifier)
+## 🌐 Repositories 
+- 🚀 [Repositories]([https://github.com/tajbender](https://github.com/tajbender?tab=repositories))
+- ⚡ [electfifier](https://github.com/electrifier)
+
 <!--
 # 👋 Hi, ich bin Thorsten
 
