@@ -29,12 +29,6 @@ Manchmal wirke ich wie ein seriöser Architekt sauberer Codebasen… und manchma
 - System Failure. Energy low. Should I repeat?
 - beep.
 
-Ah! schon wieder aus, heute kein eBay & Online Banking. Läden haben zu, und nu?
-Software darf professionell sein – aber auch bunt, verspielt und ein bisschen verrückt. Oder binär alle vier von zwei. Hat aber noch nie jemand getestet.
-
-Leistung darf nichts kosten, sonst hat sie keinen Wert, und Je nach Zustand ist eine Ausnahme in der Regel unerwümscht oder ärgerlich, manchmal aber nötig.
-Verstanden?
-
 ## 🌐 [Repositories]([https://github.com/tajbender](https://github.com/tajbender?tab=repositories))
 
 ## 🔭 I’m currently working on
