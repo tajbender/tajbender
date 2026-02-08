@@ -19,9 +19,14 @@ Manchmal wirke ich wie ein seriöser Architekt sauberer Codebasen… und manchma
 „Wenn du sauberen Code mit einem Hauch Verrücktheit kombinierst… kannst du alles erreichen!“  
 Software darf professionell sein – aber auch bunt, verspielt und ein bisschen verrückt.
 
-## 🌐 Repositories 
-- 🚀 [Repositories]([https://github.com/tajbender](https://github.com/tajbender?tab=repositories))
+## 🌐 [Repositories]([https://github.com/tajbender](https://github.com/tajbender?tab=repositories))
+
+## 🔭 I’m currently working on
+- ⚡ [Ahnenforscherin](https://github.com/tajbender/Ahnenforscherin)
+- 🚀 [Repositories](https://github.com/tajbender?tab=repositories)
 - ⚡ [electfifier](https://github.com/electrifier)
+
+### it's done when it's done.
 
 <!--
 # 👋 Hi, ich bin Thorsten
