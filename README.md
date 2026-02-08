@@ -9,15 +9,21 @@ Manchmal wirke ich wie ein seriöser Architekt sauberer Codebasen… und manchma
 - **Silence of Thoughts** – Band‑Branding mit Retro‑Atmosphäre, irgendwo zwischen VHS‑Kassetten und Neonröhren  
 - **Silent PC Builds** – Airflow‑Optimierung, Undervolting und die Suche nach der *Königsklasse* der Lautlosigkeit
 
-## 🛠️ Meine Werkzeuge
-- C#, .NET, WinUI‑3 – meine Fluxkompensator‑Bauteile  
-- PowerShell – für Automationen, die fast wie Zeitreisen wirken  
-- Retro‑Design & Comic‑Stil – weil Software nicht nur funktionieren, sondern auch Spaß machen soll  
+## 🛠️ Meine Werkzeuge und meine Fluxkompensator‑Bauteile 
+- C#, debian, .net, WinUI 3, kann ich fast lesen und schreiben.
+- PowerShell – für Automationen, die fast wie Zeitreisen wirken
+- Retro‑Design & Comic‑Stil – weil Software nicht nur funktionieren, sondern auch Spaß machen soll.
 - Hardware‑Optimierung – ich baue PCs, die so leise sind, dass du die Zukunft hören kannst
+- Copilot als Rettungsanker am Fallschirm.
 
 ## 🎩 Meine Philosophie
-„Wenn du sauberen Code mit einem Hauch Verrücktheit kombinierst… kannst du alles erreichen!“  
-Software darf professionell sein – aber auch bunt, verspielt und ein bisschen verrückt.
+„Wenn du sauberen Code mit einem Hauch Verrücktheit kombinierst… kannst du alles erreichen!“.
+
+Software darf professionell sein – aber auch bunt, verspielt und ein bisschen verrückt. Oder binär alle vier von zwei. Hat aber noch nie jemand getestet.
+
+Leistung darf nichts kosten, sonst hat sie keinen Wert.
+
+Je nach Zustand ist eine Ausnahme in der Regel unerwümscht oder ärgerlich, manchmal aber nötig.
 
 ## 🌐 [Repositories]([https://github.com/tajbender](https://github.com/tajbender?tab=repositories))
 
