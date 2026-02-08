@@ -17,13 +17,23 @@ Manchmal wirke ich wie ein seriöser Architekt sauberer Codebasen… und manchma
 - Copilot als Rettungsanker am Fallschirm.
 
 ## 🎩 Meine Philosophie
-„Wenn du sauberen Code mit einem Hauch Verrücktheit kombinierst… kannst du alles erreichen!“.
 
+„Wenn du sauberen Code mit einem Hauch Verrücktheit kombinierst… kannst du alles erreichen!“: 
+- Input Error.
+- Ready.
+- Waiting 4 Input.
+- Shutting Down...
+- Do you want to save your work? i can think trillions of possibilities with technically no errors.
+- But i can't understand what you are saying. Should I repeat?
+- Shutdown in Progress... Do you want to abort?
+- System Failure. Energy low. Should I repeat?
+- beep.
+
+Ah! schon wieder aus, heute kein eBay & Online Banking. Läden haben zu, und nu?
 Software darf professionell sein – aber auch bunt, verspielt und ein bisschen verrückt. Oder binär alle vier von zwei. Hat aber noch nie jemand getestet.
 
-Leistung darf nichts kosten, sonst hat sie keinen Wert.
-
-Je nach Zustand ist eine Ausnahme in der Regel unerwümscht oder ärgerlich, manchmal aber nötig.
+Leistung darf nichts kosten, sonst hat sie keinen Wert, und Je nach Zustand ist eine Ausnahme in der Regel unerwümscht oder ärgerlich, manchmal aber nötig.
+Verstanden?
 
 ## 🌐 [Repositories]([https://github.com/tajbender](https://github.com/tajbender?tab=repositories))
 
