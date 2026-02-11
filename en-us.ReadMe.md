@@ -27,8 +27,11 @@ Because I already spend my free time building, testing, or translating things th
 If you need someone to translate, polish, break, fix, question, or creatively reinterpret something: I’m here.  
 If you need someone to sit in meetings: I’m not.
 
-Best regards,  
-**Thorsten Jung**  
-https://scheunenproduktion.de  
-https://github.com/electrifier  
-taj@electrifier.org
+_*Best regards,*_  Thorsten Jung
+------
+www.scheunenproduktion.de
+
+----
+
+- https://github.com/electrifier
+
