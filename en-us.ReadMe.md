@@ -2,7 +2,9 @@
 
 Hello Raw Fury,
 
-I’m Thorsten — a former enterprise developer who now builds small creative tech projects, tools, translations, and experiments simply because I enjoy it. I’m not looking for a job. I’m looking to support Raw Fury in the ways I naturally operate anyway.
+I’m Thorsten — a former enterprise developer who now builds small creative tech 
+projects, tools, translations, and experiments simply because I enjoy it.
+I’m not looking for a job. I’m looking to support Raw Fury in the ways I naturally operate anyway.
 
 I’d love to help you in exactly the areas where I already live:
 
@@ -16,9 +18,11 @@ I’d love to help you in exactly the areas where I already live:
 I’m not offering “work”.  
 I’m offering **curiosity, experience, and genuine enthusiasm**.
 
-In a previous life, I developed large‑scale systems for OTTO Group, BAUR, SportScheck, and Witt — big systems, big responsibility, big meetings. That was then. Today I work independently, freely, playfully, and with a focus on things that help people and spark joy.
+In a previous life, I developed large‑scale systems for OTTO Group, BAUR, SportScheck, and Witt — big systems, 
+big responsibility, big meetings. That was then.
+Today I work independently, freely, playfully, and with a focus on things that help people and spark joy.
 
-Why Raw Fury?
+_*Why Raw Fury?*_
 
 Because your games, your tone, and your philosophy resonate with me.  
 Because personality, humor, and attention to detail matter to you.  
