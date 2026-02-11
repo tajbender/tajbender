@@ -2,7 +2,7 @@
 
 Dear Raw Fury,
 
-If Raw Fury were a metal band, I’d be the guy who shows up backstage with a soldering iron, a bag of weird adapters, a half‑finished translation, and a tool that nobody asked for but everyone suddenly needs 😈
+If Raw Fury were a metal band, I’d be the guy who shows up backstage with a soldering iron, a bag of weird adapters, a half‑finished translation, and a tool nobody asked for but everyone suddenly needs 😈
 
 I’m Thorsten — former enterprise developer, now full‑time creative tech gremlin.  
 I don’t apply for jobs. I join **bands**.
@@ -35,7 +35,7 @@ If you need someone to translate, polish, break, fix, question, or creatively re
 If you need someone to sit in meetings: that’s not metal, and neither am I 😄
 
 Stay loud,  
-**Thorsten Jung**
-----
+**Thorsten Jung**  aka tajbender
+---
 https://github.com/tajbender
 https://github.com/electrifier
